@@ -1,0 +1,1 @@
+A collection of scripts I created with ChatGPT to help me do certain things I was working on, with the aim to help me learn Python with a real problem to solve.
